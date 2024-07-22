@@ -5,6 +5,5 @@
 내용 : 서귀포시 공영 관광지 위치와 대중 교통 현황을 고려한 공공자전거 대여소 최적 입지 선정  
 역할 : 문제상황 조사, 대여소 최적 입지 선정 기준 수립 및 기준에 의거한 데이터 분석(외 1명), 기존 문제점 해결방안 제시  
 ![image](https://github.com/user-attachments/assets/7eb7fa44-595b-4842-a49d-0c9b0c837226)
-![image](https://github.com/user-attachments/assets/c92b69c9-b590-4f34-9ca4-e131ff165d45)
-![image](https://github.com/user-attachments/assets/fd7d54f8-bb1a-4bad-be3e-9c922500111a)
+![image](https://github.com/user-attachments/assets/c92b69c9-b590-4f34-9ca4-e131ff165d45) ![image](https://github.com/user-attachments/assets/fd7d54f8-bb1a-4bad-be3e-9c922500111a)
   
